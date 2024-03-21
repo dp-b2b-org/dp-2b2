@@ -1,0 +1,12 @@
+site_name: DataPower B2B
+site_url: https://tbd
+nav:
+  - Introduction: index.md
+  - System Context: system-context.md
+  - Components: components.md
+  - Use cases: use-cases.md
+  - Implementation: implementation.md
+  - Conclusion: conclusions.md
+  - About: about.md
+theme:
+  name: material
