@@ -2,4 +2,4 @@
 
 This project shows how to use DataPower for ebXML exchanges.
 
-Quick update
+Quick update number 2
